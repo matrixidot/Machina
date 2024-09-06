@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "machina:block/machine_bottom",
+    "east": "machina:block/machine_side",
+    "north": "machina:block/stirling_generator_on",
+    "particle": "machina:block/machine_side",
+    "south": "machina:block/machine_side",
+    "up": "machina:block/machine_top",
+    "west": "machina:block/machine_side"
+  }
+}
